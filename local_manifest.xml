@@ -4,7 +4,6 @@
  <!-- Trees -->
  <project path="device/motorola/astro" name="Astro-World-dev/android_device_motorola_astro.git" remote="github" revision="11" />
  <project path="device/motorola/sdm710-common" name="Astro-World-dev/android_device_motorola_sdm710-common.git" remote="github" revision="r" />
- <project path="vendor/motorola" name="Astro-World-dev/proprietary_vendor_motorola.git" remote="github" revision="lineage-18.1" />
  <project path="kernel/motorola/sdm710" name="Astro-World-dev/android_kernel_motorola_sdm710.git" remote="github" revision="lineage-18.1" />
  
 </manifest>
